@@ -8,7 +8,7 @@ import { FontAwesome  ,Ionicons, MaterialCommunityIcons} from '@expo/vector-icon
 const  HomeScreen = () => {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Home Screen!!</Text>
+      <Text>Home Screen!this is the changes!</Text>
     </View>
   );
 }
