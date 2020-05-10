@@ -9,9 +9,10 @@ const  HomeScreen = () => {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
       <Text>Home Screen!this is the changes!</Text>
+      <Text>Home Screen!is the main Screen</Text>
+     
     </View>
-    <Text>khhfhsd</Text>
-  );
+  ); 
 }
 
 
